@@ -1,11 +1,4 @@
 aaaa
 bbbb
 cccc
-fsa
-f
-dsa
-fsa
-fdsa
-f
-safd
-sa
+這是主分支
